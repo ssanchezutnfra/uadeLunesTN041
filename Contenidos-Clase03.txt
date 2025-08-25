@@ -156,6 +156,7 @@ Repositorio en servidor remoto GitHub o GitLab:
 
 
 
+
 Crear Repositorio Local con Git
    - Inicializar un repositorio: `git init`. En VSC se ve un indicador
    - Ver el estado del repositorio: `git status`.
