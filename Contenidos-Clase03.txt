@@ -193,8 +193,8 @@ Branches ramas en Git
 
    - Cambiar de rama: `git checkout <nombre-rama>`.`git switch <nombre-rama>`.
 	Este comando te permite moverte a una rama específica para empezar a trabajar en ella.
-	git checkout feature/login
-	git switch feature/login
+	git checkout feature/login -> comando tradicional, menos claro, tiene varias funcionalidades
+	git switch feature/login -> comando actual y más claro
 
    - Fusionar ramas: `git merge <nombre-rama>`.
 	Supongamos que terminaste de desarrollar la funcionalidad de login en feature/login y quieres fusionarla con master:
